@@ -41,3 +41,6 @@
 ## Notes
 - JWT secret can be changed via `JWT_SECRET` env var (min 32 chars).
 - Uploaded files are stored in `storage/` by default.
+
+## Environment variables
+- See `.env.example` for a minimal local configuration template.
